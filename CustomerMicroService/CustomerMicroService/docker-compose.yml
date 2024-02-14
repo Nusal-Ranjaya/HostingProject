@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  customerapiendpoint:
+    image: ${DOCKER_REGISTRY-}customerapiendpoint
+    build:
+      context: .
+      dockerfile: CustomerAPIEndPoint/Dockerfile
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge

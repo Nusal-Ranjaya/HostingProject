@@ -1,0 +1,14 @@
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.csproj.AssemblyReference.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.AssemblyInfoInputs.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.AssemblyInfo.cs
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.csproj.CoreCompileInputs.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\bin\Debug\net8.0\CustomerDataLayer.deps.json
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\bin\Debug\net8.0\CustomerDataLayer.runtimeconfig.json
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\bin\Debug\net8.0\CustomerDataLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\bin\Debug\net8.0\CustomerDataLayer.pdb
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\refint\CustomerDataLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.pdb
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\CustomerDataLayer.genruntimeconfig.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerDataLayer\obj\Debug\net8.0\ref\CustomerDataLayer.dll

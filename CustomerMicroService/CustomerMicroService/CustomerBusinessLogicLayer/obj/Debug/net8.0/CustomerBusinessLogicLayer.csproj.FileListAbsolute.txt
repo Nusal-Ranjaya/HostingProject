@@ -1,0 +1,15 @@
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.csproj.AssemblyReference.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.AssemblyInfoInputs.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.AssemblyInfo.cs
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\bin\Debug\net8.0\CustomerBusinessLogicLayer.deps.json
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\bin\Debug\net8.0\CustomerBusinessLogicLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\bin\Debug\net8.0\CustomerBusinessLogicLayer.pdb
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\bin\Debug\net8.0\CustomerDataLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\bin\Debug\net8.0\CustomerDataLayer.pdb
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.csproj.CopyComplete
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\refint\CustomerBusinessLogicLayer.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\CustomerBusinessLogicLayer.pdb
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerBusinessLogicLayer\obj\Debug\net8.0\ref\CustomerBusinessLogicLayer.dll

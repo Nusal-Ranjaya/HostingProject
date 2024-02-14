@@ -1,0 +1,11 @@
+docker network create my-network
+
+docker run --network my-network --name my-postgres -e POSTGRES_PASSWORD=root -p 5433:5432 -d postgres
+
+
+docker inspect -f '{{ .Config.Hostname }}' 905983fc7b8e7a9bb951b58535407e6a961fe6dd896a095f2ebe9de542f6126b
+
+"Host=localhost;port=8001;Database=my-database;Username=postgres;Password=root"
+
+docker network create my-network-customer-internal
+docker run --network dockercompose6897220043810442488_my-network --name my-postgres-customer -e POSTGRES_PASSWORD=root -p 8001:5432 -d postgres

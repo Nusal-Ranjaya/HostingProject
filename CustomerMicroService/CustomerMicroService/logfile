@@ -1,0 +1,2 @@
+2024-02-12 16:51:13.751 +0530 [33348] LOG:  redirecting log output to logging collector process
+2024-02-12 16:51:13.751 +0530 [33348] HINT:  Future log output will appear in directory "log".
