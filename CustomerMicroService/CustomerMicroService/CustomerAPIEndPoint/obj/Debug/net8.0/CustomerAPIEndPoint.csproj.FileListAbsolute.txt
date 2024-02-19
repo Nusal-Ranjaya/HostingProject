@@ -107,3 +107,4 @@ D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerAPIEn
 D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerAPIEndPoint\obj\Debug\net8.0\CustomerAPIEndPoint.pdb
 D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerAPIEndPoint\obj\Debug\net8.0\CustomerAPIEndPoint.genruntimeconfig.cache
 D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerAPIEndPoint\obj\Debug\net8.0\ref\CustomerAPIEndPoint.dll
+D:\DotNet\HostingProject\CustomerMicroService\CustomerMicroService\CustomerAPIEndPoint\obj\Debug\net8.0\CustomerAPIEndPoint.sourcelink.json

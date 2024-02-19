@@ -1,0 +1,19 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata: ##names and stuff about our deployement
+    name: customerapi-deploy
+spec:
+    replicas: 1 ## horizoantal scalling -> how many instances we want and it will provide it 
+    selector: ## selecting the tamplate we create 
+        matchLabels:
+            app: customer-api-endpoint
+    template: ## defining the pod and the container we are going to use 
+        metadata:
+            labels:
+                app: customer-api-endpoint
+        spec:
+            containers:
+                - name: customer-api-endpoint
+                  image: nusal/customerapiendpoint ## docker hub uploaded image 
+
+        

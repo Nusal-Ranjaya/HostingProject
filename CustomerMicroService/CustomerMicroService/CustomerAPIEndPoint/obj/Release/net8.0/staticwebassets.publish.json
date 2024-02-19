@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "awFAjpvqHbQuepyZiPTCRYrCiQv9tkZQYQ1U2wwMlWM=",
+  "Source": "CustomerAPIEndPoint",
+  "BasePath": "_content/CustomerAPIEndPoint",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

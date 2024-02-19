@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerAPIEndPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e13d851ecc6163ced1a645f9113d1b145d365e33")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerAPIEndPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerAPIEndPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
